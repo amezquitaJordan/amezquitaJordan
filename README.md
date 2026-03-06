@@ -44,9 +44,15 @@
   ![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Miro](https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge&logo=miro&logoColor=black)
- 
 
-<br>   
+<br>  
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amezquitaJordan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amezquitaJordan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amezquitaJordan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br>
 
  <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect me</h2>
  
